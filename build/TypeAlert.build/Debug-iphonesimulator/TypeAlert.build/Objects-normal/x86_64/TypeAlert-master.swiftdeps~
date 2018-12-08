@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "2c7f79a7e953c036e278f84b557443b8"
+build_time: [1544150096, 235537000]
+inputs:
+  "/Users/leonardo15043/Documents/GitHub/TypeAlert/TypeAlert/ViewController.swift": [1544150096, 0]
+  "/Users/leonardo15043/Documents/GitHub/TypeAlert/TypeAlert/AppDelegate.swift": [1544147452, 0]
